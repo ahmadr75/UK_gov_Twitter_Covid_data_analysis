@@ -1,7 +1,7 @@
-# UK_gov_Twitter_Covid_data_analysis
+# COVID-19 communication of the UK government and health institutions on Twitter
 
 
-This is a student seminar code prepared by  
+This is a student seminar project prepared by  
 <p align="center">
   Kazakova Evgeniia,
 </p>
@@ -14,4 +14,9 @@ This is a student seminar code prepared by
 <p align="center">
   Efimov Evgenii,
 </p>
-at TU Ilmenau in SS2021.
+<p align="center">
+  at TU Ilmenau in Summer semester 2021.
+</p>
+
+
+The Directories include several raw and processed datasets of our results, and Data_Science_Seminar2021.ipynb file includes our Python3 code to parse and process this information.
