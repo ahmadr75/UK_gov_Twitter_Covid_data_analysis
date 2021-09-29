@@ -5,8 +5,13 @@ This is a student seminar code prepared by
 <p align="center">
   Kazakova Evgeniia,
 </p>
-<center></center>
-<center>Shevtsova,__</center> 
-<center>Rezaei Ahmad,__</center> 
-<center>Efimov Evgenii,__</center>                                           
-                                                              at TU Ilmenau in SS2021.
+<p align="center">
+  Shevtsova Anastasiia,
+</p>
+<p align="center">
+  Rezaei Ahmad,
+</p>
+<p align="center">
+  Efimov Evgenii,
+</p>
+at TU Ilmenau in SS2021.
