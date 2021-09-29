@@ -14,7 +14,7 @@ This is a student seminar project prepared by
 <p align="center">
   Efimov Evgenii,
 </p>
-<p align="center">
+<p align="right">
   at TU Ilmenau in Summer semester 2021.
 </p>
 
